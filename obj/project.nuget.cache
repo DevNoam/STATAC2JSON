@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "dW7hzHkIu+aN2YzWR5IL4wI9lLPC/NkOZLlbfd9AmZdTmTM438TBtppThKMtWx/iEGBhlP+uXLPTTwHSWZfR9A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\noam1\\Desktop\\STATAC2JSON\\GoldNetRewritten.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\noam1\\.nuget\\packages\\litedb\\5.0.18\\litedb.5.0.18.nupkg.sha512",
+    "C:\\Users\\noam1\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\noam1\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.24\\microsoft.windowsdesktop.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\noam1\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.24\\microsoft.netcore.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\noam1\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.24\\microsoft.aspnetcore.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\noam1\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.24\\microsoft.netcore.app.host.win-x64.6.0.24.nupkg.sha512"
+  ],
+  "logs": []
+}
